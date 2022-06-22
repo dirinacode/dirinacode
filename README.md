@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning js/react.
 - 💞️ I’m looking to find new opportunities as a webdev.
-- 📫 How to reach me d_irina_2003@mail.ru
+- 📫 How to reach me
 
 <!---
 dirinacode/dirinacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
